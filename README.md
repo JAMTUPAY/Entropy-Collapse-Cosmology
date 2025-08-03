@@ -1,5 +1,5 @@
 # Entropy Collapse Cosmology: From Quantum Field to Galactic Structure
-
+Version: 1.1 – August 2025
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16732210.svg)](https://doi.org/10.5281/zenodo.16732210)
 
 A new cosmological framework proposing that all structure formation in the universe emerges from entropy expansion potential rather than gravitational attraction.
@@ -67,8 +67,10 @@ If you use this work in your research, please cite:
   title={Entropy Collapse Cosmology: From Quantum Field to Galactic Structure},
   author={Tupay, Johann Anton Michael},
   year={2025},
-  month={July},
+  month={August},
+  version={1.1},
   doi={10.5281/zenodo.16732210}
+
 }
 ```
 ## Keywords
